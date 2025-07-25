@@ -25,3 +25,4 @@ Font Awesome (for icons)
 
 Git & GitHub (for version control and deployment)
 
+LIVE: https://tiago0111.github.io/cv-website
