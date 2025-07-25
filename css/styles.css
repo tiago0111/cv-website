@@ -10,7 +10,7 @@
     --text-color: #403A3A;
     --text-color-light: #707070;
     --container-color: #FAFAFA;
-    --container-color-alt: #F0EFEF;
+    --container-color-alt: #3fb0e444;
     --body-color: #FCFCFC;
 
     /* Typography */
@@ -460,7 +460,7 @@ img {
 }
 
 .social_link {
-    display: inline-flex;
+    /* display: inline-flex; */
     align-items: center;
     font-size: var(--small-font-size);
     color: var(--text-color);
