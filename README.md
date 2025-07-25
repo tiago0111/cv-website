@@ -26,3 +26,12 @@ Font Awesome (for icons)
 Git & GitHub (for version control and deployment)
 
 LIVE: https://tiago0111.github.io/cv-website
+
+
+
+
+
+
+
+<img width="517" height="657" alt="image" src="https://github.com/user-attachments/assets/ac48efba-af08-4660-b2fe-13e1c4e7783f" /><img width="517" height="657" alt="image" src="https://github.com/user-attachments/assets/b0f09db2-5e2d-4081-bddb-52cac397a017" />
+
